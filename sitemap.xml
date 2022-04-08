@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://information-news-global.netlify.app/index.html</loc>
+  <lastmod>2022-04-08T17:58:11+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://information-news-global.netlify.app/</loc>
+  <lastmod>2022-04-08T17:58:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://information-news-global.netlify.app/news-information/michiaki-takahashi</loc>
+  <lastmod>2022-04-08T17:58:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://information-news-global.netlify.app/news-information/india-vs-west-indies</loc>
+  <lastmod>2022-04-08T17:58:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://information-news-global.netlify.app/news-information/ukraine-russia</loc>
+  <lastmod>2022-04-08T17:58:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://information-news-global.netlify.app/details.html</loc>
+  <lastmod>2022-04-08T17:58:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://information-news-global.netlify.app/categori.html</loc>
+  <lastmod>2022-04-08T17:58:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://information-news-global.netlify.app/about.html</loc>
+  <lastmod>2022-04-08T17:58:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://information-news-global.netlify.app/latest_news.html</loc>
+  <lastmod>2022-04-08T17:58:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://information-news-global.netlify.app/contact.html</loc>
+  <lastmod>2022-04-08T17:58:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://information-news-global.netlify.app/elements.html</loc>
+  <lastmod>2022-04-08T17:58:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://information-news-global.netlify.app/blog.html</loc>
+  <lastmod>2022-04-08T17:58:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://information-news-global.netlify.app/single-blog.html</loc>
+  <lastmod>2022-04-08T17:58:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
