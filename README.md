@@ -1,2 +1,2 @@
-# info-news-global
+# information-news-global
 -
